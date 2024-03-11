@@ -1,0 +1,285 @@
+Week,Date,Time,Away Team,Home Team,Away Score,Home Score,Diff
+Week 1,Sun 2022/09/11,1:00 PM,49ers,Bears,10,19,9
+Week 1,Mon 9/11,1:00 PM,Steelers,Bengals,23,20,-3
+Week 1,Mon 09/11,1:00 PM,Eagles,Lions,38,35,-3
+Week 1,Mon 9/11,1:00 PM,Patriots,Dolphins,7,20,13
+Week 1,Mon 9/11,1:00 PM,Ravens,Jets,24,9,-15
+Week 1,Sun 2022/9/11,1:00 PM,Jaguars,Commanders,22,28,6
+Week 1,Mon 09/11,1:00 PM,Browns,Panthers,26,24,-2
+Week 1,Mon 09/11,1:00 PM,Colts,Texans,20,20,0
+Week 1,Mon 9/11,4:25 PM,Giants,Titans,21,20,-1
+Week 1,Mon 9/11,4:25 PM,Packers,Vikings,7,23,16
+Week 1,Mon 09/11,4:25 PM,Chiefs,Cardinals,44,21,-23
+Week 1,Sun 2022/9/11,4:25 PM,Raiders,Chargers,19,24,5
+Week 1,Mon 9/11,8:20 PM,Buccaneers,Cowboys,19,3,-16
+Week 1,Mon 9/11,1:00 PM,Saints,Falcons,27,26,-1
+Week 1,Tue 9/12,8:15 PM,Broncos,Seahawks,16,17,1
+Week 2,Thu Sep 15 2022,8:15 PM,Chargers,Chiefs,24,27,3
+Week 2,Mon 9/18,1:00 PM,Jets,Browns,31,30,-1
+Week 2,Mon 9/18,1:00 PM,Commanders,Lions,27,36,9
+Week 2,Mon 9/18,1:00 PM,Buccaneers,Saints,20,10,-10
+Week 2,Mon 9/18,1:00 PM,Panthers,Giants,16,19,3
+Week 2,Mon 9/18,1:00 PM,Patriots,Steelers,17,14,-3
+Week 2,Mon 9/18,1:00 PM,Colts,Jaguars,0,24,24
+Week 2,Mon 9/18,1:00 PM,Dolphins,Ravens,42,38,-4
+Week 2,Mon 9/18,4:05 PM,Falcons,Rams,27,31,4
+Week 2,Sun 2022/9/18,4:05 PM,Seahawks,49ers,7,27,20
+Week 2,Sun 2022/9/18,4:25 PM,Bengals,Cowboys,17,20,3
+Week 2,Mon 9/18,4:25 PM,Texans,Broncos,9,16,7
+Week 2,Mon 9/18,4:25 PM,Cardinals,Raiders,29,23,-6
+Week 2,Mon 9/18,8:20 PM,Bears,Packers,10,27,17
+Week 2,Mon 2022/9/19,7:15 PM,Titans,Bills,7,41,34
+Week 2,Tue 9/19,8:30 PM,Vikings,Eagles,7,24,17
+Week 3,Thu 2022/9/22,8:15 PM,Steelers,Browns,17,29,12
+Week 3,Sun Sep 25 2022,1:00 PM,Texans,Bears,20,23,3
+Week 3,Sun 2022/09/25,1:00 PM,Raiders,Titans,22,24,2
+Week 3,Mon 09/25,1:00 PM,Chiefs,Colts,17,20,3
+Week 3,Sun 2022/9/25,1:00 PM,Bills,Dolphins,19,21,2
+Week 3,Mon 9/25,1:00 PM,Lions,Vikings,24,28,4
+Week 3,Mon 9/25,1:00 PM,Ravens,Patriots,37,26,-11
+Week 3,Mon 9/25,1:00 PM,Bengals,Jets,27,12,-15
+Week 3,Sun 2022/9/25,1:00 PM,Eagles,Commanders,24,8,-16
+Week 3,Sun Sep 25 2022,1:00 PM,Saints,Panthers,14,22,8
+Week 3,Sun 2022/09/25,4:05 PM,Jaguars,Chargers,38,10,-28
+Week 3,Sun Sep 25 2022,4:25 PM,Rams,Cardinals,20,12,-8
+Week 3,Sun Sep 25 2022,4:25 PM,Falcons,Seahawks,27,23,-4
+Week 3,Sun Sep 25 2022,4:25 PM,Packers,Buccaneers,14,12,-2
+Week 3,Mon 9/25,8:20 PM,49ers,Broncos,10,11,1
+Week 3,Tue 9/26,8:15 PM,Cowboys,Giants,23,16,-7
+Week 4,Thu 2022/9/29,8:15 PM,Dolphins,Bengals,15,27,12
+Week 4,Mon 10/2,9:30 AM,Vikings,Saints,28,25,-3
+Week 4,Mon 10/2,1:00 PM,Browns,Falcons,20,23,3
+Week 4,Sun 2022/10/02,1:00 PM,Commanders,Cowboys,10,25,15
+Week 4,Sun 2022/10/02,1:00 PM,Seahawks,Lions,48,45,-3
+Week 4,Mon 10/2,1:00 PM,Titans,Colts,24,17,-7
+Week 4,Sun 2022/10/2,1:00 PM,Bears,Giants,12,20,8
+Week 4,Mon 10/2,1:00 PM,Jaguars,Eagles,21,29,8
+Week 4,Sun 2022/10/2,1:00 PM,Jets,Steelers,24,20,-4
+Week 4,Sun 2022/10/02,1:00 PM,Bills,Ravens,23,20,-3
+Week 4,Mon 10/02,1:00 PM,Chargers,Texans,34,24,-10
+Week 4,Mon 10/2,4:05 PM,Cardinals,Panthers,26,16,-10
+Week 4,Sun 2022/10/2,4:25 PM,Patriots,Packers,24,27,3
+Week 4,Sun 2022/10/2,4:25 PM,Broncos,Raiders,23,32,9
+Week 4,Sun Oct 02 2022,8:20 PM,Chiefs,Buccaneers,41,31,-10
+Week 4,Tue 10/03,8:15 PM,Rams,49ers,9,24,15
+Week 5,Fri 10/06,8:15 PM,Colts,Broncos,12,9,-3
+Week 5,Mon 10/09,9:30 AM,Giants,Packers,27,22,-5
+Week 5,Sun 2022/10/09,1:00 PM,Steelers,Bills,3,38,35
+Week 5,Sun 2022/10/09,1:00 PM,Chargers,Browns,30,28,-2
+Week 5,Mon 10/9,1:00 PM,Bears,Vikings,22,29,7
+Week 5,Mon 10/9,1:00 PM,Lions,Patriots,0,29,29
+Week 5,Mon 10/9,1:00 PM,Seahawks,Saints,32,39,7
+Week 5,Mon 10/9,1:00 PM,Dolphins,Jets,17,40,23
+Week 5,Sun 2022/10/9,1:00 PM,Falcons,Buccaneers,15,21,6
+Week 5,Sun 2022/10/9,1:00 PM,Titans,Commanders,21,17,-4
+Week 5,Sun 2022/10/9,1:00 PM,Texans,Jaguars,13,6,-7
+Week 5,Mon 10/9,4:05 PM,49ers,Panthers,37,15,-22
+Week 5,Mon 10/9,4:25 PM,Cowboys,Rams,22,10,-12
+Week 5,Mon 10/9,4:25 PM,Eagles,Cardinals,20,17,-3
+Week 5,Mon 10/9,8:20 PM,Bengals,Ravens,17,19,2
+Week 5,Tue 10/10,8:15 PM,Raiders,Chiefs,29,30,1
+Week 6,Thu Oct 13 2022,8:15 PM,Commanders,Bears,12,7,-5
+Week 6,Mon 10/16,1:00 PM,49ers,Falcons,14,28,14
+Week 6,Mon 10/16,1:00 PM,Patriots,Browns,38,15,-23
+Week 6,Mon 10/16,1:00 PM,Jets,Packers,27,10,-17
+Week 6,Mon 10/16,1:00 PM,Jaguars,Colts,27,34,7
+Week 6,Mon 10/16,1:00 PM,Vikings,Dolphins,24,16,-8
+Week 6,Mon 10/16,1:00 PM,Bengals,Saints,30,26,-4
+Week 6,Mon 10/16,1:00 PM,Ravens,Giants,20,24,4
+Week 6,Sun 2022/10/16,1:00 PM,Buccaneers,Steelers,18,20,2
+Week 6,Mon 10/16,4:05 PM,Panthers,Rams,10,24,14
+Week 6,Sun 2022/10/16,4:05 PM,Cardinals,Seahawks,9,19,10
+Week 6,Mon 10/16,4:25 PM,Bills,Chiefs,24,20,-4
+Week 6,Sun 2022/10/16,8:20 PM,Cowboys,Eagles,17,26,9
+Week 6,Tue 10/17,8:15 PM,Broncos,Chargers,16,19,3
+Week 7,Thu 2022/10/20,8:15 PM,Saints,Cardinals,34,42,8
+Week 7,Sun 2022/10/23,1:00 PM,Falcons,Bengals,17,35,18
+Week 7,Sun 2022/10/23,1:00 PM,Lions,Cowboys,6,24,18
+Week 7,Mon 10/23,1:00 PM,Colts,Titans,10,19,9
+Week 7,Sun 2022/10/23,1:00 PM,Packers,Commanders,21,23,2
+Week 7,Mon 10/23,1:00 PM,Buccaneers,Panthers,3,21,18
+Week 7,Sun 2022/10/23,1:00 PM,Giants,Jaguars,23,17,-6
+Week 7,Mon 10/23,1:00 PM,Browns,Ravens,20,23,3
+Week 7,Mon 10/23,4:05 PM,Jets,Broncos,16,9,-7
+Week 7,Mon 10/23,4:05 PM,Texans,Raiders,20,38,18
+Week 7,Mon 10/23,4:25 PM,Seahawks,Chargers,37,23,-14
+Week 7,Sun Oct 23 2022,4:25 PM,Chiefs,49ers,44,23,-21
+Week 7,Sun 2022/10/23,8:20 PM,Steelers,Dolphins,10,16,6
+Week 7,Mon Oct 24 2022,8:15 PM,Bears,Patriots,33,14,-19
+Week 8,Fri 10/27,8:15 PM,Ravens,Buccaneers,27,22,-5
+Week 8,Sun 2022/10/30,9:30 AM,Broncos,Jaguars,21,17,-4
+Week 8,Mon 10/30,1:00 PM,Panthers,Falcons,34,37,3
+Week 8,Mon 10/30,1:00 PM,Bears,Cowboys,29,49,20
+Week 8,Mon 10/30,1:00 PM,Dolphins,Lions,31,27,-4
+Week 8,Mon 10/30,1:00 PM,Cardinals,Vikings,26,34,8
+Week 8,Mon 10/30,1:00 PM,Raiders,Saints,0,24,24
+Week 8,Mon 10/30,1:00 PM,Patriots,Jets,22,17,-5
+Week 8,Mon 10/30,1:00 PM,Steelers,Eagles,13,35,22
+Week 8,Mon 10/30,4:05 PM,Titans,Texans,17,10,-7
+Week 8,Sun Oct 30 2022,4:25 PM,Commanders,Colts,17,16,-1
+Week 8,Sun Oct 30 2022,4:25 PM,49ers,Rams,31,14,-17
+Week 8,Mon 10/30,4:25 PM,Giants,Seahawks,13,27,14
+Week 8,Sun 2022/10/30,8:20 PM,Packers,Bills,17,27,10
+Week 8,Tue 10/31,8:15 PM,Bengals,Browns,13,32,19
+Week 9,Fri 11/3,8:15 PM,Eagles,Texans,29,17,-12
+Week 9,Mon 11/6,1:00 PM,Chargers,Falcons,20,17,-3
+Week 9,Mon 11/6,1:00 PM,Dolphins,Bears,35,32,-3
+Week 9,Mon 11/6,1:00 PM,Panthers,Bengals,21,42,21
+Week 9,Sun 2022/11/6,1:00 PM,Packers,Lions,9,15,6
+Week 9,Sun 2022/11/06,1:00 PM,Colts,Patriots,3,26,23
+Week 9,Mon 11/6,1:00 PM,Bills,Jets,17,20,3
+Week 9,Sun 2022/11/6,1:00 PM,Vikings,Commanders,20,17,-3
+Week 9,Mon 11/6,1:00 PM,Raiders,Jaguars,20,27,7
+Week 9,Sun 2022/11/6,4:05 PM,Seahawks,Cardinals,31,21,-10
+Week 9,Sun 2022/11/6,4:25 PM,Rams,Buccaneers,13,16,3
+Week 9,Mon 11/6,8:20 PM,Titans,Chiefs,17,20,3
+Week 9,Mon 2022/11/07,8:15 PM,Ravens,Saints,27,13,-14
+Week 10,Thu 2022/11/10,8:15 PM,Falcons,Panthers,15,25,10
+Week 10,Mon 11/13,9:30 AM,Seahawks,Buccaneers,16,21,5
+Week 10,Sun 2022/11/13,1:00 PM,Vikings,Bills,33,30,-3
+Week 10,Mon 11/13,1:00 PM,Lions,Bears,31,30,-1
+Week 10,Mon 11/13,1:00 PM,Broncos,Titans,10,17,7
+Week 10,Sun 2022/11/13,1:00 PM,Jaguars,Chiefs,17,27,10
+Week 10,Sun 2022/11/13,1:00 PM,Browns,Dolphins,17,39,22
+Week 10,Sun 2022/11/13,1:00 PM,Texans,Giants,16,24,8
+Week 10,Mon 11/13,1:00 PM,Saints,Steelers,10,20,10
+Week 10,Sun 2022/11/13,4:05 PM,Colts,Raiders,25,20,-5
+Week 10,Sun 2022/11/13,4:25 PM,Cowboys,Packers,28,31,3
+Week 10,Mon 11/13,4:25 PM,Cardinals,Rams,27,17,-10
+Week 10,Mon 11/13,8:20 PM,Chargers,49ers,16,22,6
+Week 10,Tue 11/14,8:15 PM,Commanders,Eagles,32,21,-11
+Week 11,Thu 2022/11/17,8:15 PM,Titans,Packers,27,17,-10
+Week 11,Sun 2022/11/20,1:00 PM,Bears,Falcons,24,27,3
+Week 11,Mon 11/20,1:00 PM,Browns,Bills,23,31,8
+Week 11,Mon 11/20,1:00 PM,Eagles,Colts,17,16,-1
+Week 11,Mon 11/20,1:00 PM,Jets,Patriots,3,10,7
+Week 11,Sun 2022/11/20,1:00 PM,Rams,Saints,20,27,7
+Week 11,Mon 11/20,1:00 PM,Lions,Giants,31,18,-13
+Week 11,Sun Nov 20 2022,1:00 PM,Panthers,Ravens,3,13,10
+Week 11,Sun Nov 20 2022,1:00 PM,Commanders,Texans,23,10,-13
+Week 11,Sun 2022/11/20,4:05 PM,Raiders,Broncos,22,16,-6
+Week 11,Sun Nov 20 2022,4:25 PM,Cowboys,Vikings,40,3,-37
+Week 11,Sun 2022/11/20,4:25 PM,Bengals,Steelers,37,30,-7
+Week 11,Mon 11/20,8:20 PM,Chiefs,Chargers,30,27,-3
+Week 11,Tue 11/21,8:15 PM,49ers,Cardinals,38,10,-28
+Week 12,Fri 11/24,12:30 PM,Bills,Lions,28,25,-3
+Week 12,Thu 2022/11/24,4:30 PM,Giants,Cowboys,20,28,8
+Week 12,Fri 11/24,8:20 PM,Patriots,Vikings,26,33,7
+Week 12,Sun 2022/11/27,1:00 PM,Buccaneers,Browns,17,23,6
+Week 12,Sun 2022/11/27,1:00 PM,Bengals,Titans,20,16,-4
+Week 12,Sun 2022/11/27,1:00 PM,Texans,Dolphins,15,30,15
+Week 12,Mon 11/27,1:00 PM,Bears,Jets,10,31,21
+Week 12,Sun 2022/11/27,1:00 PM,Falcons,Commanders,13,19,6
+Week 12,Mon 11/27,1:00 PM,Broncos,Panthers,10,23,13
+Week 12,Mon 11/27,1:00 PM,Ravens,Jaguars,27,28,1
+Week 12,Sun 2022/11/27,4:05 PM,Chargers,Cardinals,25,24,-1
+Week 12,Sun 2022/11/27,4:05 PM,Raiders,Seahawks,40,34,-6
+Week 12,Mon 11/27,4:25 PM,Rams,Chiefs,10,26,16
+Week 12,Mon 11/27,4:25 PM,Saints,49ers,0,13,13
+Week 12,Sun 2022/11/27,8:20 PM,Packers,Eagles,33,40,7
+Week 12,Mon 2022/11/28,8:15 PM,Steelers,Colts,24,17,-7
+Week 13,Fri 12/1,8:15 PM,Bills,Patriots,24,10,-14
+Week 13,Mon 12/4,1:00 PM,Steelers,Falcons,19,16,-3
+Week 13,Mon 12/4,1:00 PM,Packers,Bears,28,19,-9
+Week 13,Mon 12/4,1:00 PM,Jaguars,Lions,14,40,26
+Week 13,Mon 12/4,1:00 PM,Jets,Vikings,22,27,5
+Week 13,Sun 2022/12/4,1:00 PM,Commanders,Giants,20,20,0
+Week 13,Sun 2022/12/4,1:00 PM,Titans,Eagles,10,35,25
+Week 13,Sun 2022/12/4,1:00 PM,Broncos,Ravens,9,10,1
+Week 13,Sun 2022/12/4,1:00 PM,Browns,Texans,27,14,-13
+Week 13,Mon 12/4,4:05 PM,Seahawks,Rams,27,23,-4
+Week 13,Mon 12/4,4:05 PM,Dolphins,49ers,17,33,16
+Week 13,Sun 2022/12/4,4:25 PM,Chiefs,Bengals,24,27,3
+Week 13,Sun 2022/12/04,4:25 PM,Chargers,Raiders,20,27,7
+Week 13,Sun Dec 04 2022,8:20 PM,Colts,Cowboys,19,54,35
+Week 13,Mon Dec 05 2022,8:15 PM,Saints,Buccaneers,16,17,1
+Week 14,Fri 12/08,8:15 PM,Raiders,Rams,16,17,1
+Week 14,Mon 12/11,1:00 PM,Jets,Bills,12,20,8
+Week 14,Mon 12/11,1:00 PM,Browns,Bengals,10,23,13
+Week 14,Sun 2022/12/11,1:00 PM,Texans,Cowboys,23,27,4
+Week 14,Mon 12/11,1:00 PM,Vikings,Lions,23,34,11
+Week 14,Sun 2022/12/11,1:00 PM,Jaguars,Titans,36,22,-14
+Week 14,Sun 2022/12/11,1:00 PM,Eagles,Giants,48,22,-26
+Week 14,Sun 2022/12/11,1:00 PM,Ravens,Steelers,16,14,-2
+Week 14,Sun 2022/12/11,4:05 PM,Chiefs,Broncos,34,28,-6
+Week 14,Mon 12/11,4:25 PM,Buccaneers,49ers,7,35,28
+Week 14,Sun Dec 11 2022,4:25 PM,Panthers,Seahawks,30,24,-6
+Week 14,Sun Dec 11 2022,8:20 PM,Dolphins,Chargers,17,23,6
+Week 14,Mon Dec 12 2022,8:15 PM,Patriots,Cardinals,27,13,-14
+Week 15,Thu 2022/12/15,8:15 PM,49ers,Seahawks,21,13,-8
+Week 15,Sat Dec 17 2022,1:00 PM,Colts,Vikings,36,39,3
+Week 15,Sun 12/17,4:40 PM,Ravens,Browns,3,13,10
+Week 15,Sun 12/17,8:15 PM,Dolphins,Bills,29,32,3
+Week 15,Sun 2022/12/18,1:00 PM,Eagles,Bears,25,20,-5
+Week 15,Sun 2022/12/18,1:00 PM,Falcons,Saints,18,21,3
+Week 15,Mon 12/18,1:00 PM,Lions,Jets,20,17,-3
+Week 15,Sun 2022/12/18,1:00 PM,Steelers,Panthers,24,16,-8
+Week 15,Mon 12/18,1:00 PM,Cowboys,Jaguars,34,40,6
+Week 15,Mon 12/18,1:00 PM,Chiefs,Texans,30,24,-6
+Week 15,Mon 12/18,4:05 PM,Cardinals,Broncos,15,24,9
+Week 15,Mon 12/18,4:05 PM,Patriots,Raiders,24,30,6
+Week 15,Sun 2022/12/18,4:25 PM,Titans,Chargers,14,17,3
+Week 15,Sun Dec 18 2022,4:25 PM,Bengals,Buccaneers,34,23,-11
+Week 15,Sun 2022/12/18,8:20 PM,Giants,Commanders,20,12,-8
+Week 15,Mon 2022/12/19,8:15 PM,Rams,Packers,12,24,12
+Week 16,Thu 2022/12/22,8:15 PM,Jaguars,Jets,19,3,-16
+Week 16,Sun 12/24,1:00 PM,Bills,Bears,35,13,-22
+Week 16,Sat 2022/12/24,1:00 PM,Saints,Browns,17,10,-7
+Week 16,Sun 12/24,1:00 PM,Seahawks,Chiefs,10,24,14
+Week 16,Sat Dec 24 2022,1:00 PM,Giants,Vikings,24,27,3
+Week 16,Sat 2022/12/24,1:00 PM,Bengals,Patriots,22,18,-4
+Week 16,Sun 12/24,1:00 PM,Lions,Panthers,23,37,14
+Week 16,Sun 12/24,1:00 PM,Falcons,Ravens,9,17,8
+Week 16,Sat 2022/12/24,2:00 PM,Texans,Titans,19,14,-5
+Week 16,Sat 2022/12/24,4:05 PM,Commanders,49ers,20,37,17
+Week 16,Sat Dec 24 2022,4:25 PM,Eagles,Cowboys,34,40,6
+Week 16,Sun 12/24,8:15 PM,Raiders,Steelers,10,13,3
+Week 16,Mon 12/25,1:00 PM,Packers,Dolphins,26,20,-6
+Week 16,Sun 2022/12/25,4:30 PM,Broncos,Rams,14,51,37
+Week 16,Mon 12/25,8:20 PM,Buccaneers,Cardinals,19,16,-3
+Week 16,Mon 2022/12/26,8:15 PM,Chargers,Colts,20,3,-17
+Week 17,Thu 2022/12/29,8:15 PM,Cowboys,Titans,27,13,-14
+Week 17,Sun 1/1,1:00 PM,Cardinals,Falcons,19,20,1
+Week 17,Sun 1/1,1:00 PM,Bears,Lions,10,41,31
+Week 17,Sun 2023/1/1,1:00 PM,Broncos,Chiefs,24,27,3
+Week 17,Sun 1/1,1:00 PM,Dolphins,Patriots,21,23,2
+Week 17,Sun 1/1,1:00 PM,Colts,Giants,10,38,28
+Week 17,Sun 2023/1/1,1:00 PM,Saints,Eagles,20,10,-10
+Week 17,Sun 2023/1/1,1:00 PM,Panthers,Buccaneers,24,30,6
+Week 17,Sun 1/1,1:00 PM,Browns,Commanders,24,10,-14
+Week 17,Sun 1/1,1:00 PM,Jaguars,Texans,31,3,-28
+Week 17,Sun 1/1,4:05 PM,49ers,Raiders,37,34,-3
+Week 17,Sun 2023/01/01,4:05 PM,Jets,Seahawks,6,23,17
+Week 17,Sun Jan 1 2023,4:25 PM,Vikings,Packers,17,41,24
+Week 17,Sun Jan 1 2023,4:25 PM,Rams,Chargers,10,31,21
+Week 17,Sun Jan 01 2023,8:20 PM,Steelers,Ravens,16,13,-3
+Week 17,Mon 2023/01/02,8:30 PM,Bills,Bengals,0,0,0
+Week 18,Sat 1/7,4:30 PM,Chiefs,Raiders,31,13,-18
+Week 18,Sat 1/7,8:15 PM,Titans,Jaguars,16,20,4
+Week 18,Sun 2023/1/8,1:00 PM,Buccaneers,Falcons,17,30,13
+Week 18,Sun 1/8,1:00 PM,Patriots,Bills,23,35,12
+Week 18,Sun 2023/1/8,1:00 PM,Vikings,Bears,29,13,-16
+Week 18,Sun 2023/01/08,1:00 PM,Ravens,Bengals,16,27,11
+Week 18,Sun 2023/01/08,1:00 PM,Texans,Colts,32,31,-1
+Week 18,Sun 01/08,1:00 PM,Jets,Dolphins,6,11,5
+Week 18,Sun 2023/01/08,1:00 PM,Panthers,Saints,10,7,-3
+Week 18,Sun 2023/01/08,1:00 PM,Browns,Steelers,14,28,14
+Week 18,Sun 2023/1/8,4:25 PM,Chargers,Broncos,28,31,3
+Week 18,Sun Jan 08 2023,4:25 PM,Giants,Eagles,16,22,6
+Week 18,Sun 01/08,4:25 PM,Cardinals,49ers,13,38,25
+Week 18,Sun 1/8,4:25 PM,Rams,Seahawks,16,19,3
+Week 18,Sun Jan 8 2023,4:25 PM,Cowboys,Commanders,6,26,20
+Week 18,Sun Jan 08 2023,8:20 PM,Lions,Packers,20,16,-4
+WildCard,Sat Jan 14 2023,4:30 PM,Seahawks,49ers,23,41,18
+WildCard,Sat 1/14,8:15 PM,Chargers,Jaguars,30,31,1
+WildCard,Sun 2023/1/15,1:00 PM,Dolphins,Bills,31,34,3
+WildCard,Sun 2023/1/15,4:50 PM,Giants,Vikings,31,24,-7
+WildCard,Sun 2023/1/15,8:15 PM,Ravens,Bengals,17,24,7
+WildCard,Mon 1/16,8:15 PM,Cowboys,Buccaneers,31,14,-17
+Divisional,Sat 1/21,4:30 PM,Jaguars,Chiefs,20,27,7
+Divisional,Sat 01/21,8:15 PM,Giants,Eagles,7,38,31
+Divisional,Sun 1/22,3:00 PM,Bengals,Bills,27,10,-17
+Divisional,Sun 1/22,6:30 PM,Cowboys,49ers,12,19,7
+Conference,Sun 1/29,3:00 PM,49ers,Eagles,7,31,24
+Conference,Sun Jan 29 2023,6:30 PM,Bengals,Chiefs,20,23,3
+SuperBowl,Sun 2023/02/12,6:30 PM,Chiefs,Eagles,38,35,-3
