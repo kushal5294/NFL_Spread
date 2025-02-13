@@ -1,0 +1,287 @@
+,Week,Time,Away,Home
+0,1,8:20PM,Baltimore Ravens_2024,Kansas City Chiefs_2024
+1,1,8:15PM,Green Bay Packers_2024,Philadelphia Eagles_2024
+2,1,1:00PM,Carolina Panthers_2024,New Orleans Saints_2024
+3,1,1:00PM,Arizona Cardinals_2024,Buffalo Bills_2024
+4,1,1:00PM,Houston Texans_2024,Indianapolis Colts_2024
+5,1,1:00PM,Jacksonville Jaguars_2024,Miami Dolphins_2024
+6,1,1:00PM,Minnesota Vikings_2024,New York Giants_2024
+7,1,1:00PM,New England Patriots_2024,Cincinnati Bengals_2024
+8,1,1:00PM,Tennessee Titans_2024,Chicago Bears_2024
+9,1,1:00PM,Pittsburgh Steelers_2024,Atlanta Falcons_2024
+10,1,4:05PM,Denver Broncos_2024,Seattle Seahawks_2024
+11,1,4:05PM,Las Vegas Raiders_2024,Los Angeles Chargers_2024
+12,1,4:25PM,Dallas Cowboys_2024,Cleveland Browns_2024
+13,1,4:25PM,Washington Commanders_2024,Tampa Bay Buccaneers_2024
+14,1,8:20PM,Los Angeles Rams_2024,Detroit Lions_2024
+15,1,8:15PM,New York Jets_2024,San Francisco 49ers_2024
+16,2,8:15PM,Buffalo Bills_2024,Miami Dolphins_2024
+17,2,1:00PM,Cleveland Browns_2024,Jacksonville Jaguars_2024
+18,2,1:00PM,Indianapolis Colts_2024,Green Bay Packers_2024
+19,2,1:00PM,New Orleans Saints_2024,Dallas Cowboys_2024
+20,2,1:00PM,New York Giants_2024,Washington Commanders_2024
+21,2,1:00PM,New York Jets_2024,Tennessee Titans_2024
+22,2,1:00PM,Las Vegas Raiders_2024,Baltimore Ravens_2024
+23,2,1:00PM,Los Angeles Chargers_2024,Carolina Panthers_2024
+24,2,1:00PM,Seattle Seahawks_2024,New England Patriots_2024
+25,2,1:00PM,San Francisco 49ers_2024,Minnesota Vikings_2024
+26,2,1:00PM,Tampa Bay Buccaneers_2024,Detroit Lions_2024
+27,2,4:05PM,Los Angeles Rams_2024,Arizona Cardinals_2024
+28,2,4:25PM,Cincinnati Bengals_2024,Kansas City Chiefs_2024
+29,2,4:25PM,Pittsburgh Steelers_2024,Denver Broncos_2024
+30,2,8:20PM,Chicago Bears_2024,Houston Texans_2024
+31,2,8:15PM,Atlanta Falcons_2024,Philadelphia Eagles_2024
+32,3,8:15PM,New England Patriots_2024,New York Jets_2024
+33,3,1:00PM,Chicago Bears_2024,Indianapolis Colts_2024
+34,3,1:00PM,Denver Broncos_2024,Tampa Bay Buccaneers_2024
+35,3,1:00PM,Green Bay Packers_2024,Tennessee Titans_2024
+36,3,1:00PM,Houston Texans_2024,Minnesota Vikings_2024
+37,3,1:00PM,New York Giants_2024,Cleveland Browns_2024
+38,3,1:00PM,Philadelphia Eagles_2024,New Orleans Saints_2024
+39,3,1:00PM,Los Angeles Chargers_2024,Pittsburgh Steelers_2024
+40,3,4:05PM,Carolina Panthers_2024,Las Vegas Raiders_2024
+41,3,4:05PM,Miami Dolphins_2024,Seattle Seahawks_2024
+42,3,4:25PM,Detroit Lions_2024,Arizona Cardinals_2024
+43,3,4:25PM,Baltimore Ravens_2024,Dallas Cowboys_2024
+44,3,4:25PM,San Francisco 49ers_2024,Los Angeles Rams_2024
+45,3,8:20PM,Kansas City Chiefs_2024,Atlanta Falcons_2024
+46,3,7:30PM,Jacksonville Jaguars_2024,Buffalo Bills_2024
+47,3,8:15PM,Washington Commanders_2024,Cincinnati Bengals_2024
+48,4,8:15PM,Dallas Cowboys_2024,New York Giants_2024
+49,4,1:00PM,Cincinnati Bengals_2024,Carolina Panthers_2024
+50,4,1:00PM,Denver Broncos_2024,New York Jets_2024
+51,4,1:00PM,Jacksonville Jaguars_2024,Houston Texans_2024
+52,4,1:00PM,Minnesota Vikings_2024,Green Bay Packers_2024
+53,4,1:00PM,New Orleans Saints_2024,Atlanta Falcons_2024
+54,4,1:00PM,Philadelphia Eagles_2024,Tampa Bay Buccaneers_2024
+55,4,1:00PM,Pittsburgh Steelers_2024,Indianapolis Colts_2024
+56,4,1:00PM,Los Angeles Rams_2024,Chicago Bears_2024
+57,4,4:05PM,New England Patriots_2024,San Francisco 49ers_2024
+58,4,4:05PM,Washington Commanders_2024,Arizona Cardinals_2024
+59,4,4:25PM,Cleveland Browns_2024,Las Vegas Raiders_2024
+60,4,4:25PM,Kansas City Chiefs_2024,Los Angeles Chargers_2024
+61,4,8:20PM,Buffalo Bills_2024,Baltimore Ravens_2024
+62,4,7:30PM,Tennessee Titans_2024,Miami Dolphins_2024
+63,4,8:15PM,Seattle Seahawks_2024,Detroit Lions_2024
+64,5,8:15PM,Tampa Bay Buccaneers_2024,Atlanta Falcons_2024
+65,5,9:30AM,New York Jets_2024,Minnesota Vikings_2024
+66,5,1:00PM,Buffalo Bills_2024,Houston Texans_2024
+67,5,1:00PM,Carolina Panthers_2024,Chicago Bears_2024
+68,5,1:00PM,Cleveland Browns_2024,Washington Commanders_2024
+69,5,1:00PM,Indianapolis Colts_2024,Jacksonville Jaguars_2024
+70,5,1:00PM,Miami Dolphins_2024,New England Patriots_2024
+71,5,1:00PM,Baltimore Ravens_2024,Cincinnati Bengals_2024
+72,5,4:05PM,Arizona Cardinals_2024,San Francisco 49ers_2024
+73,5,4:05PM,Las Vegas Raiders_2024,Denver Broncos_2024
+74,5,4:25PM,Green Bay Packers_2024,Los Angeles Rams_2024
+75,5,4:25PM,New York Giants_2024,Seattle Seahawks_2024
+76,5,8:20PM,Dallas Cowboys_2024,Pittsburgh Steelers_2024
+77,5,8:15PM,New Orleans Saints_2024,Kansas City Chiefs_2024
+78,6,8:15PM,San Francisco 49ers_2024,Seattle Seahawks_2024
+79,6,9:30AM,Jacksonville Jaguars_2024,Chicago Bears_2024
+80,6,1:00PM,Cleveland Browns_2024,Philadelphia Eagles_2024
+81,6,1:00PM,Indianapolis Colts_2024,Tennessee Titans_2024
+82,6,1:00PM,Arizona Cardinals_2024,Green Bay Packers_2024
+83,6,1:00PM,Houston Texans_2024,New England Patriots_2024
+84,6,1:00PM,Tampa Bay Buccaneers_2024,New Orleans Saints_2024
+85,6,1:00PM,Washington Commanders_2024,Baltimore Ravens_2024
+86,6,4:05PM,Pittsburgh Steelers_2024,Las Vegas Raiders_2024
+87,6,4:05PM,Los Angeles Chargers_2024,Denver Broncos_2024
+88,6,4:25PM,Atlanta Falcons_2024,Carolina Panthers_2024
+89,6,4:25PM,Detroit Lions_2024,Dallas Cowboys_2024
+90,6,8:20PM,Cincinnati Bengals_2024,New York Giants_2024
+91,6,8:15PM,Buffalo Bills_2024,New York Jets_2024
+92,7,8:15PM,Denver Broncos_2024,New Orleans Saints_2024
+93,7,9:30AM,New England Patriots_2024,Jacksonville Jaguars_2024
+94,7,1:00PM,Cincinnati Bengals_2024,Cleveland Browns_2024
+95,7,1:00PM,Detroit Lions_2024,Minnesota Vikings_2024
+96,7,1:00PM,Houston Texans_2024,Green Bay Packers_2024
+97,7,1:00PM,Miami Dolphins_2024,Indianapolis Colts_2024
+98,7,1:00PM,Tennessee Titans_2024,Buffalo Bills_2024
+99,7,1:00PM,Philadelphia Eagles_2024,New York Giants_2024
+100,7,1:00PM,Seattle Seahawks_2024,Atlanta Falcons_2024
+101,7,4:05PM,Carolina Panthers_2024,Washington Commanders_2024
+102,7,4:05PM,Las Vegas Raiders_2024,Los Angeles Rams_2024
+103,7,4:25PM,Kansas City Chiefs_2024,San Francisco 49ers_2024
+104,7,8:20PM,New York Jets_2024,Pittsburgh Steelers_2024
+105,7,8:15PM,Baltimore Ravens_2024,Tampa Bay Buccaneers_2024
+106,7,9:00PM,Los Angeles Chargers_2024,Arizona Cardinals_2024
+107,8,8:15PM,Minnesota Vikings_2024,Los Angeles Rams_2024
+108,8,1:00PM,Atlanta Falcons_2024,Tampa Bay Buccaneers_2024
+109,8,1:00PM,Chicago Bears_2024,Washington Commanders_2024
+110,8,1:00PM,Indianapolis Colts_2024,Houston Texans_2024
+111,8,1:00PM,Arizona Cardinals_2024,Miami Dolphins_2024
+112,8,1:00PM,Green Bay Packers_2024,Jacksonville Jaguars_2024
+113,8,1:00PM,New York Jets_2024,New England Patriots_2024
+114,8,1:00PM,Tennessee Titans_2024,Detroit Lions_2024
+115,8,1:00PM,Baltimore Ravens_2024,Cleveland Browns_2024
+116,8,4:05PM,Buffalo Bills_2024,Seattle Seahawks_2024
+117,8,4:05PM,New Orleans Saints_2024,Los Angeles Chargers_2024
+118,8,4:25PM,Carolina Panthers_2024,Denver Broncos_2024
+119,8,4:25PM,Kansas City Chiefs_2024,Las Vegas Raiders_2024
+120,8,4:25PM,Philadelphia Eagles_2024,Cincinnati Bengals_2024
+121,8,8:20PM,Dallas Cowboys_2024,San Francisco 49ers_2024
+122,8,8:15PM,New York Giants_2024,Pittsburgh Steelers_2024
+123,9,8:15PM,Houston Texans_2024,New York Jets_2024
+124,9,1:00PM,Indianapolis Colts_2024,Minnesota Vikings_2024
+125,9,1:00PM,Dallas Cowboys_2024,Atlanta Falcons_2024
+126,9,1:00PM,Denver Broncos_2024,Baltimore Ravens_2024
+127,9,1:00PM,Miami Dolphins_2024,Buffalo Bills_2024
+128,9,1:00PM,New Orleans Saints_2024,Carolina Panthers_2024
+129,9,1:00PM,New England Patriots_2024,Tennessee Titans_2024
+130,9,1:00PM,Las Vegas Raiders_2024,Cincinnati Bengals_2024
+131,9,1:00PM,Los Angeles Chargers_2024,Cleveland Browns_2024
+132,9,1:00PM,Washington Commanders_2024,New York Giants_2024
+133,9,4:05PM,Chicago Bears_2024,Arizona Cardinals_2024
+134,9,4:25PM,Detroit Lions_2024,Green Bay Packers_2024
+135,9,4:25PM,Los Angeles Rams_2024,Seattle Seahawks_2024
+136,9,8:20PM,Jacksonville Jaguars_2024,Philadelphia Eagles_2024
+137,9,8:15PM,Tampa Bay Buccaneers_2024,Kansas City Chiefs_2024
+138,10,8:15PM,Cincinnati Bengals_2024,Baltimore Ravens_2024
+139,10,9:30AM,New York Giants_2024,Carolina Panthers_2024
+140,10,1:00PM,Atlanta Falcons_2024,New Orleans Saints_2024
+141,10,1:00PM,Buffalo Bills_2024,Indianapolis Colts_2024
+142,10,1:00PM,Denver Broncos_2024,Kansas City Chiefs_2024
+143,10,1:00PM,Minnesota Vikings_2024,Jacksonville Jaguars_2024
+144,10,1:00PM,New England Patriots_2024,Chicago Bears_2024
+145,10,1:00PM,Pittsburgh Steelers_2024,Washington Commanders_2024
+146,10,1:00PM,San Francisco 49ers_2024,Tampa Bay Buccaneers_2024
+147,10,4:05PM,Tennessee Titans_2024,Los Angeles Chargers_2024
+148,10,4:25PM,New York Jets_2024,Arizona Cardinals_2024
+149,10,4:25PM,Philadelphia Eagles_2024,Dallas Cowboys_2024
+150,10,8:20PM,Detroit Lions_2024,Houston Texans_2024
+151,10,8:15PM,Miami Dolphins_2024,Los Angeles Rams_2024
+152,11,8:15PM,Washington Commanders_2024,Philadelphia Eagles_2024
+153,11,1:00PM,Cleveland Browns_2024,New Orleans Saints_2024
+154,11,1:00PM,Green Bay Packers_2024,Chicago Bears_2024
+155,11,1:00PM,Jacksonville Jaguars_2024,Detroit Lions_2024
+156,11,1:00PM,Minnesota Vikings_2024,Tennessee Titans_2024
+157,11,1:00PM,Las Vegas Raiders_2024,Miami Dolphins_2024
+158,11,1:00PM,Los Angeles Rams_2024,New England Patriots_2024
+159,11,1:00PM,Baltimore Ravens_2024,Pittsburgh Steelers_2024
+160,11,4:05PM,Atlanta Falcons_2024,Denver Broncos_2024
+161,11,4:05PM,Seattle Seahawks_2024,San Francisco 49ers_2024
+162,11,4:25PM,Cincinnati Bengals_2024,Los Angeles Chargers_2024
+163,11,4:25PM,Kansas City Chiefs_2024,Buffalo Bills_2024
+164,11,8:20PM,Indianapolis Colts_2024,New York Jets_2024
+165,11,8:15PM,Houston Texans_2024,Dallas Cowboys_2024
+166,12,8:15PM,Pittsburgh Steelers_2024,Cleveland Browns_2024
+167,12,1:00PM,Dallas Cowboys_2024,Washington Commanders_2024
+168,12,1:00PM,Detroit Lions_2024,Indianapolis Colts_2024
+169,12,1:00PM,Kansas City Chiefs_2024,Carolina Panthers_2024
+170,12,1:00PM,Minnesota Vikings_2024,Chicago Bears_2024
+171,12,1:00PM,New England Patriots_2024,Miami Dolphins_2024
+172,12,1:00PM,Tennessee Titans_2024,Houston Texans_2024
+173,12,1:00PM,Tampa Bay Buccaneers_2024,New York Giants_2024
+174,12,4:05PM,Denver Broncos_2024,Las Vegas Raiders_2024
+175,12,4:25PM,Arizona Cardinals_2024,Seattle Seahawks_2024
+176,12,4:25PM,San Francisco 49ers_2024,Green Bay Packers_2024
+177,12,8:20PM,Philadelphia Eagles_2024,Los Angeles Rams_2024
+178,12,8:15PM,Baltimore Ravens_2024,Los Angeles Chargers_2024
+179,13,12:30PM,Chicago Bears_2024,Detroit Lions_2024
+180,13,4:30PM,New York Giants_2024,Dallas Cowboys_2024
+181,13,8:20PM,Miami Dolphins_2024,Green Bay Packers_2024
+182,13,3:00PM,Las Vegas Raiders_2024,Kansas City Chiefs_2024
+183,13,1:00PM,Indianapolis Colts_2024,New England Patriots_2024
+184,13,1:00PM,Arizona Cardinals_2024,Minnesota Vikings_2024
+185,13,1:00PM,Houston Texans_2024,Jacksonville Jaguars_2024
+186,13,1:00PM,Tennessee Titans_2024,Washington Commanders_2024
+187,13,1:00PM,Pittsburgh Steelers_2024,Cincinnati Bengals_2024
+188,13,1:00PM,Los Angeles Chargers_2024,Atlanta Falcons_2024
+189,13,1:00PM,Seattle Seahawks_2024,New York Jets_2024
+190,13,4:05PM,Los Angeles Rams_2024,New Orleans Saints_2024
+191,13,4:05PM,Tampa Bay Buccaneers_2024,Carolina Panthers_2024
+192,13,4:25PM,Philadelphia Eagles_2024,Baltimore Ravens_2024
+193,13,8:20PM,San Francisco 49ers_2024,Buffalo Bills_2024
+194,13,8:15PM,Cleveland Browns_2024,Denver Broncos_2024
+195,14,8:15PM,Green Bay Packers_2024,Detroit Lions_2024
+196,14,1:00PM,Atlanta Falcons_2024,Minnesota Vikings_2024
+197,14,1:00PM,Carolina Panthers_2024,Philadelphia Eagles_2024
+198,14,1:00PM,Cleveland Browns_2024,Pittsburgh Steelers_2024
+199,14,1:00PM,Jacksonville Jaguars_2024,Tennessee Titans_2024
+200,14,1:00PM,New Orleans Saints_2024,New York Giants_2024
+201,14,1:00PM,New York Jets_2024,Miami Dolphins_2024
+202,14,1:00PM,Las Vegas Raiders_2024,Tampa Bay Buccaneers_2024
+203,14,4:05PM,Seattle Seahawks_2024,Arizona Cardinals_2024
+204,14,4:25PM,Buffalo Bills_2024,Los Angeles Rams_2024
+205,14,4:25PM,Chicago Bears_2024,San Francisco 49ers_2024
+206,14,8:20PM,Los Angeles Chargers_2024,Kansas City Chiefs_2024
+207,14,8:15PM,Cincinnati Bengals_2024,Dallas Cowboys_2024
+208,15,8:15PM,Los Angeles Rams_2024,San Francisco 49ers_2024
+209,15,1:00PM,Cincinnati Bengals_2024,Tennessee Titans_2024
+210,15,1:00PM,Dallas Cowboys_2024,Carolina Panthers_2024
+211,15,1:00PM,Kansas City Chiefs_2024,Cleveland Browns_2024
+212,15,1:00PM,Miami Dolphins_2024,Houston Texans_2024
+213,15,1:00PM,New York Jets_2024,Jacksonville Jaguars_2024
+214,15,1:00PM,Baltimore Ravens_2024,New York Giants_2024
+215,15,1:00PM,Washington Commanders_2024,New Orleans Saints_2024
+216,15,4:25PM,Buffalo Bills_2024,Detroit Lions_2024
+217,15,4:25PM,Indianapolis Colts_2024,Denver Broncos_2024
+218,15,4:25PM,New England Patriots_2024,Arizona Cardinals_2024
+219,15,4:25PM,Pittsburgh Steelers_2024,Philadelphia Eagles_2024
+220,15,4:25PM,Tampa Bay Buccaneers_2024,Los Angeles Chargers_2024
+221,15,8:20PM,Green Bay Packers_2024,Seattle Seahawks_2024
+222,15,8:00PM,Chicago Bears_2024,Minnesota Vikings_2024
+223,15,8:30PM,Atlanta Falcons_2024,Las Vegas Raiders_2024
+224,16,8:15PM,Cleveland Browns_2024,Cincinnati Bengals_2024
+225,16,1:00PM,Houston Texans_2024,Kansas City Chiefs_2024
+226,16,4:30PM,Pittsburgh Steelers_2024,Baltimore Ravens_2024
+227,16,1:00PM,Arizona Cardinals_2024,Carolina Panthers_2024
+228,16,1:00PM,Detroit Lions_2024,Chicago Bears_2024
+229,16,1:00PM,New England Patriots_2024,Buffalo Bills_2024
+230,16,1:00PM,New York Giants_2024,Atlanta Falcons_2024
+231,16,1:00PM,Tennessee Titans_2024,Indianapolis Colts_2024
+232,16,1:00PM,Philadelphia Eagles_2024,Washington Commanders_2024
+233,16,1:00PM,Los Angeles Rams_2024,New York Jets_2024
+234,16,4:05PM,Denver Broncos_2024,Los Angeles Chargers_2024
+235,16,4:05PM,Minnesota Vikings_2024,Seattle Seahawks_2024
+236,16,4:25PM,Jacksonville Jaguars_2024,Las Vegas Raiders_2024
+237,16,4:25PM,San Francisco 49ers_2024,Miami Dolphins_2024
+238,16,8:20PM,Tampa Bay Buccaneers_2024,Dallas Cowboys_2024
+239,16,8:15PM,New Orleans Saints_2024,Green Bay Packers_2024
+240,17,1:00PM,Kansas City Chiefs_2024,Pittsburgh Steelers_2024
+241,17,4:30PM,Baltimore Ravens_2024,Houston Texans_2024
+242,17,8:15PM,Seattle Seahawks_2024,Chicago Bears_2024
+243,17,1:00PM,Atlanta Falcons_2024,Washington Commanders_2024
+244,17,1:00PM,Carolina Panthers_2024,Tampa Bay Buccaneers_2024
+245,17,1:00PM,Indianapolis Colts_2024,New York Giants_2024
+246,17,1:00PM,Arizona Cardinals_2024,Los Angeles Rams_2024
+247,17,1:00PM,Denver Broncos_2024,Cincinnati Bengals_2024
+248,17,1:00PM,Green Bay Packers_2024,Minnesota Vikings_2024
+249,17,1:00PM,New York Jets_2024,Buffalo Bills_2024
+250,17,1:00PM,Tennessee Titans_2024,Jacksonville Jaguars_2024
+251,17,1:00PM,Las Vegas Raiders_2024,New Orleans Saints_2024
+252,17,1:00PM,Los Angeles Chargers_2024,New England Patriots_2024
+253,17,4:25PM,Dallas Cowboys_2024,Philadelphia Eagles_2024
+254,17,8:20PM,Miami Dolphins_2024,Cleveland Browns_2024
+255,17,8:15PM,Detroit Lions_2024,San Francisco 49ers_2024
+256,18,1:00PM,Buffalo Bills_2024,New England Patriots_2024
+257,18,1:00PM,Carolina Panthers_2024,Atlanta Falcons_2024
+258,18,1:00PM,Chicago Bears_2024,Green Bay Packers_2024
+259,18,1:00PM,Cincinnati Bengals_2024,Pittsburgh Steelers_2024
+260,18,1:00PM,Cleveland Browns_2024,Baltimore Ravens_2024
+261,18,1:00PM,Houston Texans_2024,Tennessee Titans_2024
+262,18,1:00PM,Jacksonville Jaguars_2024,Indianapolis Colts_2024
+263,18,1:00PM,Kansas City Chiefs_2024,Denver Broncos_2024
+264,18,1:00PM,Miami Dolphins_2024,New York Jets_2024
+265,18,1:00PM,Minnesota Vikings_2024,Detroit Lions_2024
+266,18,1:00PM,New Orleans Saints_2024,Tampa Bay Buccaneers_2024
+267,18,1:00PM,New York Giants_2024,Philadelphia Eagles_2024
+268,18,1:00PM,Los Angeles Chargers_2024,Las Vegas Raiders_2024
+269,18,1:00PM,Seattle Seahawks_2024,Los Angeles Rams_2024
+270,18,1:00PM,San Francisco 49ers_2024,Arizona Cardinals_2024
+271,18,1:00PM,Washington Commanders_2024,Dallas Cowboys_2024
+272,19,1:00PM,Los Angeles Chargers_2024,Houston Texans_2024
+273,19,1:00PM,Pittsburgh Steelers_2024,Baltimore Ravens_2024
+274,19,1:00PM,Denver Broncos_2024,Buffalo Bills_2024
+275,19,1:00PM,Green Bay Packers_2024,Philadelphia Eagles_2024
+276,19,1:00PM,Washington Commanders_2024,Tampa Bay Buccaneers_2024
+277,19,1:00PM,Minnesota Vikings_2024,Los Angeles Rams_2024
+278,20,1:00PM,Houston Texans_2024,Kansas City Chiefs_2024
+279,20,1:00PM,Washington Commanders_2024,Detroit Lions_2024
+280,20,1:00PM,Los Angeles Rams_2024,Philadelphia Eagles_2024
+281,20,1:00PM,Baltimore Ravens_2024,Buffalo Bills_2024
+282,21,1:00PM,Washington Commanders_2024,Philadelphia Eagles_2024
+283,21,1:00PM,Buffalo Bills_2024,Kansas City Chiefs_2024
+284,22,1:00PM,Kansas City Chiefs_2024,Philadelphia Eagles_2024
+285,22,1:00PM,Philadelphia Eagles_2024,Kansas City Chiefs_2024
